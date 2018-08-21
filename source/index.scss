@@ -1,0 +1,8 @@
+.context-sentence-group {
+  p:last-of-type {
+    filter: blur(3px);
+  }
+  p:last-of-type:hover {
+    filter: none;
+  }
+}
